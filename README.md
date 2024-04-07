@@ -6,3 +6,8 @@
 <h3>Responsividade para celular como dito no texto acima:</h3>
 
 ![image](https://github.com/DevGustavoGantois/My-LinkTree/assets/123424700/768d9382-a16c-48a5-bf9f-a5e5a3501dea)
+
+
+
+<h1>Project LinkTree</h1>
+<p>I particularly enjoyed this project, as I was able to explore my imagination, using animation libraries (ScrollReveal) to make the site more fun, using some CSS properties such as keyframes. I used responsiveness on the site to make it work on any type of device.</p>
