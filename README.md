@@ -9,5 +9,4 @@
 
 
 
-<h1>Project LinkTree</h1>
 <p>I particularly enjoyed this project, as I was able to explore my imagination, using animation libraries (ScrollReveal) to make the site more fun, using some CSS properties such as keyframes. I used responsiveness on the site to make it work on any type of device.</p>
