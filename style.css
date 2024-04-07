@@ -155,6 +155,11 @@ button {
     }
 }
 
+.copyright {
+    text-align: center;
+    color: white;   
+}
+
 /* Fazendo a responsividade do site */
 @media screen and (max-width: 1020px) {
     .img-container {
