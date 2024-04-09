@@ -1,4 +1,4 @@
-<h4>Acesse o site --></h4> <a href="delicate-kataifi-fd0dd8.netlify.app">Clique aqui! </a>
+<h4>Acesse o site:</h4> <a href="delicate-kataifi-fd0dd8.netlify.app">Clique aqui! </a>
 
 <h1>Projeto LinkTree.</h1>
 <p>Particulamente curti muito esse projeto, pois nele co nsegui explorar a imaginação, utilizando bibliotecas de animação (ScrollReveal) para deixar o site mais divertido, utilizando algumas propriedades do CSS como os keyframes. Utilizei a responvsividade no site fazer com que ele pegue em qualquer tipo de dispositívo.</p>
